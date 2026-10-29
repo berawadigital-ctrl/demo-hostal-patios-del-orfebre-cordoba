@@ -2,7 +2,7 @@
 
 Autocontrol de fabricación (G04, A1–A11) y checklist C01–C16 (`docs/BERAWA-QA-CHECKLIST.md`) pasados por Grok antes del PR. **No es una auditoría independiente ni una aprobación**: Codex solo audita una muestra y nada se publica ni se envía sin visto bueno de Juan.
 
-- Rama: `demo/hostal-patios-del-orfebre-cordoba` · HEAD de las pruebas: `e0ab33c4997ac762780bac0de80165c0509777eb` · fecha: 29/10/2026 13:14 (Europe/Madrid)
+- Rama: `demo/hostal-patios-del-orfebre-cordoba` · HEAD de las pruebas: `c06fb941e895737c7e64b9bb8830f8671afaac29` · fecha: 29/10/2026 15:03 (Europe/Madrid)
 - Entorno: Chromium de Playwright (instalado por `playwright install chromium` en el clon limpio), axe-core 4.14.0, Lighthouse 13.6.0 (3 pasadas, mediana).
 - Resultado: **QA_GROK_PASS**
 - Negocio medido: Maps 4.7 (LEIDA, coincide tel, web) · web original: LCP > 4 s · titular Orfebre Management 1877, S.L. (persona jurídica, sin cadena).
@@ -25,7 +25,7 @@ Autocontrol de fabricación (G04, A1–A11) y checklist C01–C16 (`docs/BERAWA-
 ## Checklist C01–C16
 | Código | Control | Resultado | Evidencia |
 |---|---|---|---|
-| C01 | Repositorio y SHA | **CUMPLE** | HEAD del clon limpio = e0ab33c4997ac762780bac0de80165c0509777eb (el SHA final del PR es el del commit que añade este informe) |
+| C01 | Repositorio y SHA | **CUMPLE** | HEAD del clon limpio = c06fb941e895737c7e64b9bb8830f8671afaac29 (el SHA final del PR es el del commit que añade este informe) |
 | C02 | Identidad y fuentes | **CUMPLE** | nombre, teléfono, dirección y datos comerciales con cita literal en berawa/knowledge.json; titular persona jurídica sin cadena y nota de Maps en berawa/evidence/captacion.json |
 | C03 | Licencias | **CUMPLE** | asset_manifest.json: ilustraciones propias generadas (origin=generated) y fuente Cormorant OFL; ninguna imagen, logo ni vídeo del negocio |
 | C04 | Diseño personalizado y no suplantador | **CUMPLE** | paleta e ilustraciones propias, aviso «Propuesta de rediseño independiente, no oficial» arriba y en el pie, sin logo ni marca del negocio; revisión visual de qa/capturas/ |
