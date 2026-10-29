@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-patios-del-orfebre-cordoba",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T13:09:00+01:00",
+ "updated_at": "2026-10-29T13:25:00+01:00",
+ "business": {
+  "name": "Hostal Patios del Orfebre",
+  "legal_name": "Orfebre Management 1877, S.L.",
+  "registry_ids": [
+   "CIF B-67863910",
+   "RTA H/CO/00814"
+  ],
+  "url": "https://patiosdelorfebre.es/",
+  "domain": "patiosdelorfebre.es",
+  "municipality": "Córdoba",
+  "province": "Córdoba",
+  "address": "Calle Tejón y Marín 1 · 14003 Córdoba",
+  "phones": [
+   "+34 957 392 975"
+  ],
+  "emails": [
+   "reservas@patiosdelorfebre.es"
+  ],
+  "sector": "hostal de 1 estrella en una casa-patio del siglo XVI del centro histórico de Córdoba"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hostal+Patios+del+Orfebre/@37.8819896,-4.7842755,17z/data=!4m9!3m8!1s0xd6cdf62045f6cbf:0xddaad35cdeb240c4!5m2!4m1!1i2!8m2!3d37.8819896!4d-4.7842755!16s%2Fg%2F11hcxhq22z",
+  "date": "2026-10-29T11:06:28+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "url": "mailto:reservas@patiosdelorfebre.es",
+  "note": "Su web no ofrece un motor de reservas enlazable (el plugin de reservas muestra precios vacíos y no tiene pagina de reserva publica); la reserva se pide por correo a reservas@patiosdelorfebre.es, el canal que la propia web indica. La demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://patiosdelorfebre.es/",
+  "date": "2026-10-29T13:02:20+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

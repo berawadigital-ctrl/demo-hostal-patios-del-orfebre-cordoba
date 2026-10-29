@@ -1,0 +1,48 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://patiosdelorfebre.es/",
+ "read_at": "2026-10-29T13:10:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://patiosdelorfebre.es/",
+   "sha256": "f78d6513519ce574b971a4abdb86b751aa2bd571e4746a8d90285c85aadd2d00",
+   "chars": 8065
+  },
+  {
+   "url": "https://patiosdelorfebre.es/accommodation/doble-estardar/",
+   "sha256": "9592cce6ab99b093d4da4fbf19fb8142a0227694ce58bb2fe56266e8f1bcddc8",
+   "chars": 5026
+  },
+  {
+   "url": "https://patiosdelorfebre.es/accommodation/junior-suite/",
+   "sha256": "99eddb2c623ebb508c2e14181380f54a9472a7d6d0f59f5b59d982cd55e7cced",
+   "chars": 5217
+  },
+  {
+   "url": "https://patiosdelorfebre.es/aviso-legal/",
+   "sha256": "5e8087fd2b7625e432323079c196ac6176700e75251af892701ba94835a7ee61",
+   "chars": 14700
+  },
+  {
+   "url": "https://patiosdelorfebre.es/historia/",
+   "sha256": "e0372874083b344091f288aa2b85fed722299db0c8fb66f6e382e79aca99a4c0",
+   "chars": 7538
+  },
+  {
+   "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+   "sha256": "93864ebf130f7ea63ed12cc41481ed6d713a66717aab075050c908073ae029ac",
+   "chars": 7317
+  }
+ ],
+ "other_pages_read": [
+  "https://patiosdelorfebre.es/accommodation/cuadruple/",
+  "https://patiosdelorfebre.es/accommodation/habitacion-doble-economica/",
+  "https://patiosdelorfebre.es/accommodation/individual/",
+  "https://patiosdelorfebre.es/accommodation/triple/",
+  "https://patiosdelorfebre.es/contacto/",
+  "https://patiosdelorfebre.es/galeria/",
+  "https://patiosdelorfebre.es/nuestras-habitaciones/",
+  "https://patiosdelorfebre.es/ofertas-exclusivas/"
+ ]
+}

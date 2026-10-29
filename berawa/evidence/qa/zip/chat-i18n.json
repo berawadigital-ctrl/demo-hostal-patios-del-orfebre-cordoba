@@ -1,0 +1,454 @@
+{
+ "url": "http://127.0.0.1:35525/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 22 habitaciones, todas diferentes: doble económica, doble estándar, individual, triple, cuádruple y Junior Suite."
+    },
+    {
+     "q": "¿Cómo es la Junior Suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La Junior Suite tiene 60 m² y es para 2 adultos y 2 niños. Está en lo más alto de la casa-patio, con dormitorio con cama de matrimonio, saló"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Está en Calle Tejón y Marín 1, 14003 Córdoba, en el centro histórico: a 180 m de la puerta de Almodóvar y a 450 m de la Mezquita-Catedral."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El check-in es de 15:00 a 22:00 (si llegas más tarde, avisa antes) y el check-out antes de las 12:00. Por la noche se entra con la tarjeta d"
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No hay recepción atendida las 24 horas. Hay videovigilancia las 24 horas y en la Tarjeta de Bienvenida tienes los teléfonos del personal par"
+    },
+    {
+     "q": "¿Puedo cancelar gratis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La cancelación es gratuita si se hace 48 horas antes de la llegada. Las reservas con noches en fechas especiales (29, 30 y 31 de marzo y vie"
+    },
+    {
+     "q": "¿Hay aparcamiento cerca?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Hay un aparcamiento público a 150 metros, el Parking «Paseo de la Victoria». La calle es de acceso restringido, así que recomiendan aparcar "
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen aire acondicionado con bomba de calor, wifi, televisión, minibar y baño con ducha, amenities, toallas y secador de p"
+    },
+    {
+     "q": "¿Qué historia tiene la casa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Es una casa-patio del siglo XVI, edificio protegido del casco histórico de Córdoba. En el mayor de sus patios se ve un yacimiento arqueológi"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes pedir tu reserva por correo a reservas@patiosdelorfebre.es (botón Reservar) o llamar al +34 957 392 975. Este asistente no confirma d"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Según su aviso legal, la web es de ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. Es un hostal de 1 estrella con registro RTA H/CO/00814."
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "No: está prohibido fumar en todo el establecimiento."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes pedir tu reserva por correo a reservas@patiosdelorfebre.es (botón Reservar) o llamar al +34 957 392 975. Este asistente no confirma d"
+    },
+    {
+     "q": "¿Tienen gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Dónde está?",
+    "¿A qué hora es el check-in?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "svc3",
+    "room0_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 22 habitacions, totes diferents: doble econòmica, doble estàndard, individual, triple, quàdruple i Junior Suite."
+    },
+    {
+     "q": "Com és la Junior Suite?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La Junior Suite fa 60 m² i és per a 2 adults i 2 nens. És a la part més alta de la casa-pati, amb dormitori amb llit de matrimoni, saló amb "
+    },
+    {
+     "q": "On és?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És al carrer Tejón y Marín 1, 14003 Còrdova, al centre històric: a 180 m de la porta d'Almodóvar i a 450 m de la Mesquita-Catedral."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El check-in és de 15:00 a 22:00 (si arribes més tard, avisa abans) i el check-out abans de les 12:00. A la nit s'entra amb la targeta de cli"
+    },
+    {
+     "q": "Hi ha recepció 24 hores?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No hi ha recepció atesa les 24 hores. Hi ha videovigilància les 24 hores i a la Targeta de Benvinguda tens els telèfons del personal per a q"
+    },
+    {
+     "q": "Puc cancel·lar gratis?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La cancel·lació és gratuïta si es fa 48 hores abans de l'arribada. Les reserves amb nits en dates especials (29, 30 i 31 de març i divendres"
+    },
+    {
+     "q": "Hi ha aparcament a prop?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Hi ha un aparcament públic a 150 metres, el Parking «Paseo de la Victoria». El carrer és d'accés restringit, així que recomanen aparcar i ar"
+    },
+    {
+     "q": "Què tenen les habitacions?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Les habitacions tenen aire condicionat amb bomba de calor, wifi, televisió, minibar i bany amb dutxa, amenities, tovalloles i assecador, a m"
+    },
+    {
+     "q": "Quina història té la casa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "És una casa-pati del segle XVI, edifici protegit del nucli antic de Còrdova. Al pati més gran es veu un jaciment arqueològic amb murs d'èpoc"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots demanar la reserva per correu a reservas@patiosdelorfebre.es (botó Reservar) o trucar al +34 957 392 975. Aquest assistent no confirma "
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Segons el seu avís legal, el web és d'ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. És un hostal d'1 estrella amb registre RTA H/CO/00814."
+    },
+    {
+     "q": "Es pot fumar?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "No: està prohibit fumar a tot l'establiment."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots demanar la reserva per correu a reservas@patiosdelorfebre.es (botó Reservar) o trucar al +34 957 392 975. Aquest assistent no confirma "
+    },
+    {
+     "q": "Teniu gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "On és?",
+    "A quina hora és el check-in?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3",
+    "room0_n",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 22 rooms, all different: economy double, standard double, single, triple, quadruple and Junior Suite."
+    },
+    {
+     "q": "What is the Junior Suite like?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The Junior Suite is 60 m² for 2 adults and 2 children. It sits at the top of the patio house, with a bedroom with a double bed, a lounge ove"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is at Calle Tejón y Marín 1, 14003 Córdoba, in the historic centre: 180 m from the Almodóvar gate and 450 m from the Mosque-Cathedral."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in is from 15:00 to 22:00 (let them know beforehand if you arrive later) and check-out is before 12:00. At night you enter with your g"
+    },
+    {
+     "q": "Is there a 24-hour reception?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "There is no 24-hour staffed reception. There is 24-hour video surveillance, and the Welcome Card lists staff phone numbers for any issue."
+    },
+    {
+     "q": "Can I cancel for free?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Cancellation is free up to 48 hours before arrival. Bookings including nights on special dates (29, 30 and 31 March and Fridays or Saturdays"
+    },
+    {
+     "q": "Is there parking nearby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "There is a public car park 150 metres away, the «Paseo de la Victoria» car park. The street has restricted access, so they recommend parking"
+    },
+    {
+     "q": "What do the rooms have?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Rooms have heat-pump air conditioning, wifi, TV, minibar and a bathroom with shower, amenities, towels and hairdryer, plus an electronic pro"
+    },
+    {
+     "q": "What is the history of the house?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is a sixteenth-century patio house, a protected building in Córdoba's historic centre. Its main patio shows an archaeological site with R"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can request a booking by email at reservas@patiosdelorfebre.es (Book button) or call +34 957 392 975. This assistant does not confirm av"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "According to its legal notice, the website belongs to ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. It is a 1-star hostal, registration RTA H/"
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "No: smoking is prohibited throughout the establishment."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can request a booking by email at reservas@patiosdelorfebre.es (Book button) or call +34 957 392 975. This assistant does not confirm av"
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 392 975 · reservas@patiosdelorfebre.es."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Where is it?",
+    "What time is check-in?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "svc3",
+    "room0_n",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 22 chambres, toutes différentes : double économique, double standard, individuelle, triple, quadruple et Junior Suite."
+    },
+    {
+     "q": "Comment est la Junior Suite ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La Junior Suite fait 60 m² pour 2 adultes et 2 enfants. Elle se trouve au plus haut de la maison à patio, avec une chambre avec lit double, "
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il se trouve Calle Tejón y Marín 1, 14003 Cordoue, dans le centre historique : à 180 m de la porte d'Almodóvar et à 450 m de la Mosquée-Cath"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'arrivée se fait de 15:00 à 22:00 (prévenez si vous arrivez plus tard) et le départ avant 12:00. La nuit, on entre avec la carte client."
+    },
+    {
+     "q": "Y a-t-il une réception 24 heures ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il n'y a pas de réception ouverte 24 heures sur 24. Il y a une vidéosurveillance 24 heures sur 24 et la Carte de bienvenue indique les télép"
+    },
+    {
+     "q": "Puis-je annuler gratuitement ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L'annulation est gratuite jusqu'à 48 heures avant l'arrivée. Les réservations incluant des nuits aux dates spéciales (29, 30 et 31 mars et v"
+    },
+    {
+     "q": "Y a-t-il un parking à proximité ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il y a un parking public à 150 mètres, le parking « Paseo de la Victoria ». La rue est à accès restreint ; il est conseillé de se garer et d"
+    },
+    {
+     "q": "Qu'ont les chambres ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Les chambres disposent de la climatisation par pompe à chaleur, du wifi, de la télévision, d'un minibar et d'une salle de bain avec douche, "
+    },
+    {
+     "q": "Quelle est l'histoire de la maison ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "C'est une maison à patio du XVIe siècle, bâtiment protégé du centre historique de Cordoue. Son grand patio montre un site archéologique avec"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez demander une réservation par e-mail à reservas@patiosdelorfebre.es (bouton Réserver) ou appeler le +34 957 392 975. Cet assistan"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Selon ses mentions légales, le site appartient à ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. C'est un hostal 1 étoile, enregistrement RTA H/"
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Non : il est interdit de fumer dans tout l'établissement."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez demander une réservation par e-mail à reservas@patiosdelorfebre.es (bouton Réserver) ou appeler le +34 957 392 975. Cet assistan"
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 392 975 · reservas@patiosdelorfebre.es."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 392 975 · reservas@patiosdelorfebre.es."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Où est-il ?",
+    "À quelle heure est le check-in ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

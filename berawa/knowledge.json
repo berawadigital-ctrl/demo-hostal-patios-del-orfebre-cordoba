@@ -1,0 +1,562 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hostal-patios-del-orfebre-cordoba",
+ "source_site": "https://patiosdelorfebre.es/",
+ "source_read_at": "2026-10-29T13:10:00+01:00",
+ "note": "Respuestas solo con datos publicados en patiosdelorfebre.es. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio"
+    ],
+    "en": [
+     "what rooms",
+     "room types"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre"
+    ]
+   },
+   "a": {
+    "es": "Tiene 22 habitaciones, todas diferentes: doble económica, doble estándar, individual, triple, cuádruple y Junior Suite.",
+    "ca": "Té 22 habitacions, totes diferents: doble econòmica, doble estàndard, individual, triple, quàdruple i Junior Suite.",
+    "en": "It has 22 rooms, all different: economy double, standard double, single, triple, quadruple and Junior Suite.",
+    "fr": "Il compte 22 chambres, toutes différentes : double économique, double standard, individuelle, triple, quadruple et Junior Suite."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "Patios del Orfebre cuenta con 22 habitaciones , todas ellas diferentes"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "Habitación doble económica"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "Habitación Cuádruple"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "Junior Suite"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "Habitación Triple"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "Habitación Doble Estandar"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "Habitación Individual"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "junior suite",
+   "keys": {
+    "es": [
+     "junior",
+     "suite"
+    ],
+    "ca": [
+     "junior",
+     "suite"
+    ],
+    "en": [
+     "junior",
+     "suite"
+    ],
+    "fr": [
+     "junior",
+     "suite"
+    ]
+   },
+   "a": {
+    "es": "La Junior Suite tiene 60 m² y es para 2 adultos y 2 niños. Está en lo más alto de la casa-patio, con dormitorio con cama de matrimonio, salón con vistas a la Mezquita-Catedral y un solárium privado con vistas al casco histórico.",
+    "ca": "La Junior Suite fa 60 m² i és per a 2 adults i 2 nens. És a la part més alta de la casa-pati, amb dormitori amb llit de matrimoni, saló amb vistes a la Mesquita-Catedral i un solàrium privat amb vistes al nucli antic.",
+    "en": "The Junior Suite is 60 m² for 2 adults and 2 children. It sits at the top of the patio house, with a bedroom with a double bed, a lounge overlooking the Mosque-Cathedral and a private sun terrace with views of the old town.",
+    "fr": "La Junior Suite fait 60 m² pour 2 adultes et 2 enfants. Elle se trouve au plus haut de la maison à patio, avec une chambre avec lit double, un salon avec vue sur la Mosquée-Cathédrale et un solarium privé avec vue sur la vieille ville."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/accommodation/junior-suite/",
+     "quote": "Habitación para 2 adultos + 2 niños - 60m2"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/accommodation/junior-suite/",
+     "quote": "La Junior suite se encuentra en el emplazamiento más alto de la casa-patio."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/accommodation/junior-suite/",
+     "quote": "Consta de una habitación con cama matrimonial"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/accommodation/junior-suite/",
+     "quote": "vistas a la Mezquita-Catedral"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/accommodation/junior-suite/",
+     "quote": "el solarium privado ofrece unas maravillosas vistas del casco histórico y la Mezquita"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "mezquita"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "mesquita"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "mosque"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "mosquee"
+    ]
+   },
+   "a": {
+    "es": "Está en Calle Tejón y Marín 1, 14003 Córdoba, en el centro histórico: a 180 m de la puerta de Almodóvar y a 450 m de la Mezquita-Catedral.",
+    "ca": "És al carrer Tejón y Marín 1, 14003 Còrdova, al centre històric: a 180 m de la porta d'Almodóvar i a 450 m de la Mesquita-Catedral.",
+    "en": "It is at Calle Tejón y Marín 1, 14003 Córdoba, in the historic centre: 180 m from the Almodóvar gate and 450 m from the Mosque-Cathedral.",
+    "fr": "Il se trouve Calle Tejón y Marín 1, 14003 Cordoue, dans le centre historique : à 180 m de la porte d'Almodóvar et à 450 m de la Mosquée-Cathédrale."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "Calle Tejón y Marín 1, 14003 Córdoba, España."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "a 180m de la puerta de Álmodovar, otrora “puerta de los nogales” y a 450m de la majestuosa Mezquita-Catedral Aljama"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "entrada y salida",
+   "keys": {
+    "es": [
+     "check",
+     "entrada",
+     "salida"
+    ],
+    "ca": [
+     "check",
+     "entrada",
+     "sortida"
+    ],
+    "en": [
+     "check",
+     "arrival time",
+     "departure"
+    ],
+    "fr": [
+     "check",
+     "arrivee",
+     "depart"
+    ]
+   },
+   "a": {
+    "es": "El check-in es de 15:00 a 22:00 (si llegas más tarde, avisa antes) y el check-out antes de las 12:00. Por la noche se entra con la tarjeta de cliente.",
+    "ca": "El check-in és de 15:00 a 22:00 (si arribes més tard, avisa abans) i el check-out abans de les 12:00. A la nit s'entra amb la targeta de client.",
+    "en": "Check-in is from 15:00 to 22:00 (let them know beforehand if you arrive later) and check-out is before 12:00. At night you enter with your guest card.",
+    "fr": "L'arrivée se fait de 15:00 à 22:00 (prévenez si vous arrivez plus tard) et le départ avant 12:00. La nuit, on entre avec la carte client."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "El horario de Check-in es de 15:00 a 22:00 horas. Si el cliente no puede realizar el registro antes de ese horario, debe comunicarlo previamente."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "Check-out Antes de las 12:00 h."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "El acceso en horario nocturno (fuera del horario de recepción) se realiza con la tarjeta de cliente"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "recepción",
+   "keys": {
+    "es": [
+     "recepcion",
+     "24 horas"
+    ],
+    "ca": [
+     "recepcio",
+     "24 hores"
+    ],
+    "en": [
+     "reception",
+     "24-hour",
+     "24 hour"
+    ],
+    "fr": [
+     "reception",
+     "24 heures"
+    ]
+   },
+   "a": {
+    "es": "No hay recepción atendida las 24 horas. Hay videovigilancia las 24 horas y en la Tarjeta de Bienvenida tienes los teléfonos del personal para cualquier incidencia.",
+    "ca": "No hi ha recepció atesa les 24 hores. Hi ha videovigilància les 24 hores i a la Targeta de Benvinguda tens els telèfons del personal per a qualsevol incidència.",
+    "en": "There is no 24-hour staffed reception. There is 24-hour video surveillance, and the Welcome Card lists staff phone numbers for any issue.",
+    "fr": "Il n'y a pas de réception ouverte 24 heures sur 24. Il y a une vidéosurveillance 24 heures sur 24 et la Carte de bienvenue indique les téléphones du personnel en cas de besoin."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "Este establecimiento no dispone de recepción atendida por personal las 24 horas."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "Existen cámaras de videovigilancia para la propia seguridad de los huéspedes durante las 24 horas."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "El cliente dispone de números de teléfono del personal en la Tarjeta de Bienvenida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "cancelación",
+   "keys": {
+    "es": [
+     "cancel"
+    ],
+    "ca": [
+     "cancel"
+    ],
+    "en": [
+     "cancel"
+    ],
+    "fr": [
+     "annul"
+    ]
+   },
+   "a": {
+    "es": "La cancelación es gratuita si se hace 48 horas antes de la llegada. Las reservas con noches en fechas especiales (29, 30 y 31 de marzo y viernes o sábados de abril y mayo) son no reembolsables.",
+    "ca": "La cancel·lació és gratuïta si es fa 48 hores abans de l'arribada. Les reserves amb nits en dates especials (29, 30 i 31 de març i divendres o dissabtes d'abril i maig) no són reemborsables.",
+    "en": "Cancellation is free up to 48 hours before arrival. Bookings including nights on special dates (29, 30 and 31 March and Fridays or Saturdays in April and May) are non-refundable.",
+    "fr": "L'annulation est gratuite jusqu'à 48 heures avant l'arrivée. Les réservations incluant des nuits aux dates spéciales (29, 30 et 31 mars et vendredis ou samedis d'avril et mai) ne sont pas remboursables."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "La CANCELACIÓN ES GRATUITA si se realiza 48h antes de la llegada al establecimiento."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "esto es 29,30,31 de marzo o cualquier viernes o sábado de abril y mayo, la tarifa será no reembolsable"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "aparcamiento",
+     "parking",
+     "aparcar",
+     "coche"
+    ],
+    "ca": [
+     "aparcament",
+     "parking",
+     "aparcar",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "car"
+    ],
+    "fr": [
+     "parking",
+     "voiture",
+     "stationnement"
+    ]
+   },
+   "a": {
+    "es": "Hay un aparcamiento público a 150 metros, el Parking «Paseo de la Victoria». La calle es de acceso restringido, así que recomiendan aparcar y llegar caminando.",
+    "ca": "Hi ha un aparcament públic a 150 metres, el Parking «Paseo de la Victoria». El carrer és d'accés restringit, així que recomanen aparcar i arribar caminant.",
+    "en": "There is a public car park 150 metres away, the «Paseo de la Victoria» car park. The street has restricted access, so they recommend parking and walking over.",
+    "fr": "Il y a un parking public à 150 mètres, le parking « Paseo de la Victoria ». La rue est à accès restreint ; il est conseillé de se garer et de venir à pied."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "Sí, existe un aparcamiento público a 150 metros del Hostal llamado Parking “Paseo de la Victoria”."
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "forma parte de una de las zonas de acceso restringido de la ciudad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tienen las habitaciones",
+     "equipamiento",
+     "wifi",
+     "aire acondicionado",
+     "television"
+    ],
+    "ca": [
+     "tenen les habitacions",
+     "equipament",
+     "wifi",
+     "aire condicionat",
+     "televisio"
+    ],
+    "en": [
+     "rooms have",
+     "equipment",
+     "wifi",
+     "air condit",
+     "tv"
+    ],
+    "fr": [
+     "ont les chambres",
+     "equipement",
+     "wifi",
+     "climatisation",
+     "television"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen aire acondicionado con bomba de calor, wifi, televisión, minibar y baño con ducha, amenities, toallas y secador de pelo, además de cerradura electrónica de proximidad.",
+    "ca": "Les habitacions tenen aire condicionat amb bomba de calor, wifi, televisió, minibar i bany amb dutxa, amenities, tovalloles i assecador, a més de pany electrònic de proximitat.",
+    "en": "Rooms have heat-pump air conditioning, wifi, TV, minibar and a bathroom with shower, amenities, towels and hairdryer, plus an electronic proximity lock.",
+    "fr": "Les chambres disposent de la climatisation par pompe à chaleur, du wifi, de la télévision, d'un minibar et d'une salle de bain avec douche, produits d'accueil, serviettes et sèche-cheveux, ainsi que d'une serrure électronique de proximité."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/accommodation/doble-estardar/",
+     "quote": "Baño con ducha, amenities, toallas y secador de pelo. Aire Acondicionado Bomba de Calor WIFI Televisión Baño con ducha Mini Bar"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "Todas las habitaciones están equipadas con cerradura electrónica de proximidad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "siglo",
+     "yacimiento"
+    ],
+    "ca": [
+     "historia",
+     "segle",
+     "jaciment"
+    ],
+    "en": [
+     "history",
+     "century",
+     "archaeolog"
+    ],
+    "fr": [
+     "histoire",
+     "siecle",
+     "archeolog"
+    ]
+   },
+   "a": {
+    "es": "Es una casa-patio del siglo XVI, edificio protegido del casco histórico de Córdoba. En el mayor de sus patios se ve un yacimiento arqueológico con muros de época romana y califal, datado alrededor del siglo IV.",
+    "ca": "És una casa-pati del segle XVI, edifici protegit del nucli antic de Còrdova. Al pati més gran es veu un jaciment arqueològic amb murs d'època romana i califal, datat al voltant del segle IV.",
+    "en": "It is a sixteenth-century patio house, a protected building in Córdoba's historic centre. Its main patio shows an archaeological site with Roman and Caliphal walls, dated to around the 4th century.",
+    "fr": "C'est une maison à patio du XVIe siècle, bâtiment protégé du centre historique de Cordoue. Son grand patio montre un site archéologique avec des murs d'époque romaine et califale, daté du IVe siècle environ."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "esta casa-patio que data del S. XVI"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "edificio protegido que forma parte del casco histórico de Córdoba"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "Muros de época romana y califal sustentan los cimientos de esta hermosa edificación"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "un yacimiento arqueológico hallado durante las obras, y datado alrededor del S. IV."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes pedir tu reserva por correo a reservas@patiosdelorfebre.es (botón Reservar) o llamar al +34 957 392 975. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots demanar la reserva per correu a reservas@patiosdelorfebre.es (botó Reservar) o trucar al +34 957 392 975. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can request a booking by email at reservas@patiosdelorfebre.es (Book button) or call +34 957 392 975. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez demander une réservation par e-mail à reservas@patiosdelorfebre.es (bouton Réserver) ou appeler le +34 957 392 975. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/historia/",
+     "quote": "+34 957 392 975 reservas@patiosdelorfebre.es"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Según su aviso legal, la web es de ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. Es un hostal de 1 estrella con registro RTA H/CO/00814.",
+    "ca": "Segons el seu avís legal, el web és d'ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. És un hostal d'1 estrella amb registre RTA H/CO/00814.",
+    "en": "According to its legal notice, the website belongs to ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. It is a 1-star hostal, registration RTA H/CO/00814.",
+    "fr": "Selon ses mentions légales, le site appartient à ORFEBRE MANAGEMENT 1877 SL, CIF B-67863910. C'est un hostal 1 étoile, enregistrement RTA H/CO/00814."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/aviso-legal/",
+     "quote": "cuya titularidad es de ORFEBRE MANAGEMENT 1877 SL , con CIF B-67863910"
+    },
+    {
+     "url": "https://patiosdelorfebre.es/",
+     "quote": "RTA Nº H/CO/00814, Hostal 1*"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "fumar",
+   "keys": {
+    "es": [
+     "fumar",
+     "fumador"
+    ],
+    "ca": [
+     "fumar",
+     "fumador"
+    ],
+    "en": [
+     "smok"
+    ],
+    "fr": [
+     "fumer",
+     "fumeur"
+    ]
+   },
+   "a": {
+    "es": "No: está prohibido fumar en todo el establecimiento.",
+    "ca": "No: està prohibit fumar a tot l'establiment.",
+    "en": "No: smoking is prohibited throughout the establishment.",
+    "fr": "Non : il est interdit de fumer dans tout l'établissement."
+   },
+   "sources": [
+    {
+     "url": "https://patiosdelorfebre.es/preguntas-frecuentes/",
+     "quote": "fumar en todo el establecimiento"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
